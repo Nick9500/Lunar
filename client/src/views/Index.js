@@ -310,7 +310,7 @@ const Index = (props) => {
                     </td>
                   </tr>
                   <tr>
-                    <th scope="row">twitter</th>
+                    <th scope="row">Twitter</th>
                     <td>2,645</td>
                     <td>
                       <div className="d-flex align-items-center">
