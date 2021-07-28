@@ -34,6 +34,8 @@ jobs:
       # - run:
       #     name: Run tests
       #     command: npm test
+      - run: cd client
+      - run: npm run start
 
 workflows:
   # Below is the definition of your workflow.
