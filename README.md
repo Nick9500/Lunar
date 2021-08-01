@@ -3,5 +3,6 @@
 ## Big Inventory Management System for Small Businesses
   
 A minimalistic yet extremely functional inventory management system built for your relatives who run an e-commerce store but have no idea how to use technology. 
-
+Protov1.
+  
 ![IMS](https://hackernoon.com/hn-images/1*-NOQtyJAGQ1RNC3iVt_thA.png)
